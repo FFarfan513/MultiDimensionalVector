@@ -2,6 +2,7 @@
 
 #include <functional>
 #include <array>
+#include <iostream>
 
 template<unsigned int Dimension> class Vector
 {
